@@ -6,9 +6,9 @@
 /*
     Este simples exemplo fora elaborado na intenção de ilustrar a forma como ponteiros nulos podem 
     ser utilisados para referenciar diferentes tipos de dados, característica responsável por conferir 
-    maior  flexibilidade às nossas funções e estruturas de dados.
- 
-    para maiores informações consulte a documentação disponível em: 
+    maior  flexibilidade às nossas funções e estruturas de dados. Para maiores informações 
+    consulte a documentação disponível em: 
+    https://github.com/bio-automata/DDSL4C/blob/master/Tutorial:%20Generalizando%20Fun%C3%A7%C3%B5es%20e%20Estruturas%20de%20Dados%20-%20Rodrigo%20Cezar%20Silveira.pdf
    */
 
 #include <stdio.h>

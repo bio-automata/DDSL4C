@@ -6,8 +6,8 @@
 /*Double linked list example*/
 
 /*
-    Exemplo de lista duplamente encadeada
-    para maiores informações consulte a documentação, disponível em:
+    Exemplo de lista duplamente encadeada, para maiores informações consulte a documentação, disponível em:
+    https://github.com/bio-automata/DDSL4C/blob/master/Tutorial:%20Generalizando%20Fun%C3%A7%C3%B5es%20e%20Estruturas%20de%20Dados%20-%20Rodrigo%20Cezar%20Silveira.pdf
  */
 
 #include <stdio.h>
