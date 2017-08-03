@@ -1,4 +1,4 @@
-# DDSLC - Dinamic Data Structure Library for C
+# DDSL4C - Dinamic Data Structure Library for C
 
 
   This project was developed for academic purposes, aiming to implement the most general types of data structure by a generic way, thus once it was implemented, it must be used for a large variety of applications, allowing us to avoid the needing to recreate a specific data structure for each data type in our projects.
